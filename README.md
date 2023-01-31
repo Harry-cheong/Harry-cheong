@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I'm a 🇸🇬 student from Dunman High School
+- 🌱 I'm currently learning web development and algorithms
+- 😄 I love tinkering with tech
+- ⚡ Fun fact: I love trying out magic tricks 🎩
+
+
 <!--
 **Harry-cheong/Harry-cheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
