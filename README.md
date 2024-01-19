@@ -3,7 +3,7 @@
 - 🔭 I'm a 🇸🇬 student from Dunman High School
 - 🌱 I'm currently learning web and mobile development
 - 😄 I love tinkering with tech
-- ⚡ Fun fact: I love whacking tennis balls 🎾
+- ⚡ Fun fact: In my free time, I put fluffy balls within lines 🎾
 
 
 <!--
