@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub👋 A bit more about me...
 
 - 🔭 I'm a 🇸🇬 student from Dunman High School
 - 🌱 I'm currently learning web and mobile development
