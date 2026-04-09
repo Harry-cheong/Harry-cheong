@@ -1,7 +1,7 @@
 ### Welcome to my GitHub👋 A bit more about me...
 
-- 🔭 I'm a 🇸🇬 student from Dunman High School
-- 🌱 I'm currently learning web and mobile development
+- 🔭 I'm a 🇸🇬 student
+- 🌱 I'm currently learning DSA and Ai
 - 😄 I love tinkering with tech
 - ⚡ Fun fact: In my free time, I put fluffy balls within lines 🎾
 
